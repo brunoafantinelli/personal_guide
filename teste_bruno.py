@@ -22,3 +22,5 @@ candidate_custom_fields = candidate_custom_fields.pivot_table(
 candidate_custom_fields = candidate_custom_fields.reset_index(drop = False)
 
 candidate_custom_fields.to_csv('C:/Users/bruno.fantinelli/Desktop/candidate_custom_fields_REPORT.csv', index=False)
+
+#teste_end
